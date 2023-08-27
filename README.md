@@ -4,11 +4,15 @@
   - [Design Patterns in Test Automation I](https://www.linkedin.com/pulse/design-patterns-test-automation-i-alex-ilyenko/)
   - [Design Patterns in Test Automation II](https://goo.gl/juYyTo)
   - [Design Patterns in Test Automation III](https://goo.gl/W5266e)
+  - [Page Object for Selenium](https://github.com/SeleniumHQ/selenium/wiki/PageObjects)
+    - [Exemplo](http://www.seleniumeasy.com/selenium-tutorials/page-object-model-framework-introduction)
+    - [By Guru99](http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
+    - [By Martin Fowler](https://martinfowler.com/bliki/PageObject.html)
+    - [By ToolsQA](http://toolsqa.com/selenium-webdriver/page-object-model/)
 
 ## Mobile
 
-  - [Appium](http://appium.io/)<span style="color:blue">some *blue* text</span>.
-
+  - [Appium](http://appium.io/) `End To End Tests`
     - [O que é](http://appium.io/docs/en/about-appium/getting-started/?lang=en)
     - [História](http://appium.io/history.html?lang=en)
     - [Basic](http://bitbar.com/the-basics-of-mobile-web-testing-using-appium-selenium/)
@@ -40,11 +44,7 @@
 
 
 ## Web
-  - [Page Object](https://github.com/SeleniumHQ/selenium/wiki/PageObjects)
-    - [Exemplo](http://www.seleniumeasy.com/selenium-tutorials/page-object-model-framework-introduction)
-    - [By Guru99](http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
-    - [By Martin Fowler](https://martinfowler.com/bliki/PageObject.html)
-    - [By ToolsQA](http://toolsqa.com/selenium-webdriver/page-object-model/)
+  
 
   - [Capybara](https://github.com/teamcapybara/capybara)
     - [Site Prism](https://github.com/natritmeyer/site_prism)
