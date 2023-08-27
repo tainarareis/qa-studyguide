@@ -1,70 +1,14 @@
-# Agile
- - [Scrum Guides](http://www.scrumguides.org/)
- - [A Startup Enxuta](https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624)
- - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban](https://www.amazon.com.br/Learning-Agile-Understanding-Scrum-Kanban-ebook/dp/B00PJ8YKRM/)
+# Tools
 
-# Agile Testing
-
-  - [O que é?](https://www.concretesolutions.com.br/2017/02/20/agile-testing-o-que-e/)
-    - By Elessandra
-
-  - [Lisa Crispin](http://lisacrispin.com/)
-    - Lisa Crispin é uma das referências quando falamos sobre Agile Testing, além se ser ativa na comunidade até hoje tem bastante material publicado no seu site e nas redes sociais.
-    - [Posts](http://lisacrispin.com/post-archives)
-
-  - [Janet Gregory](http://janetgregory.ca/)
-    - Janet Gregory junto com a Lisa Crispin são referência quando se fala em Agile Testing, também autora dos livros Agile Testing e More Agile Testing.
-    - [Agile Testing não é uma metodologia](http://janetgregory.ca/agile-testing-is-not-a-methodology/)
-    - [Posts](http://janetgregory.ca/blog/)
-
-  - [Growing Agile](https://www.growingagile.co.za/)
-    - Um site de uma consultoria que faz diversos tipos de coaching incluindo Agile Testing, tem bastante conteúdos consideráveis, criado por duas mulheres Karen Greaves e Sam Laing.
-    - [Growing Agile: A Coach's Guide to Agile Testing](AgileTesting)
-
-  - [Pirâmide de Testes](https://martinfowler.com/articles/practical-test-pyramid.html)
-
-  - Livros
-    - [Agile Testing](http://agiletester.ca/agile-testing/)
-      - [Mapa mental do livro](http://agiletester.ca/wp-content/uploads/sites/26/2013/09/AgileTestingFinalforBook.png)
-    - [More Agile Testing](http://agiletester.ca/)
-      - [Mapa mental do livro](http://agiletester.rumspeed.net/wp-content/uploads/sites/26/2014/09/More_Agile_Testing.png)
-
-  - Eventos
-    - [Agile Testing Day](https://agiletestingdays.com/)
-    - [Conferência Agile Testers](http://conferencia.agiletesters.com.br/)
-
-  - Links
-    - [By Atlassian](https://www.atlassian.com/agile/testing)
-    - [By Guru99](http://www.guru99.com/agile-scrum-extreme-testing.html)
-    - [By Frederico Moreira](http://www.fredmoreira.com/2014/08/50centsagiletesting.html)
-
-# BDD
-
-  - [O que é](https://dannorth.net/introducing-bdd/)
-    - By Dan North
-
-# ATDD
-  - [Conceito](http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf)
-  - [Passo a Passo](https://www.infoq.com/br/articles/atdd-passo-a-passo)
-  - [Livro](https://www.amazon.com.br/ATDD-Example-Test-Driven-Development-Addison-Wesley-ebook/dp/B008G1H3EG)
-
-# Especificação por Exemplo
-  - [Gojko Adzic](https://gojko.net/books/specification-by-example/)
-  - By Samanta Cicília
-    - [Parte 1](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-01)
-    - [Parte 2](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-02)
-    - [Parte 3](https://imasters.com.br/desenvolvimento/especificacao-por-exemplo-como-ela-e-parte-03)
-  - [By Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
-  - [Livro](https://gojko.net/books/specification-by-example/)
-
-# Padrão de Projetos para Teste
+## Padrão de Projetos para Teste
   - [Design Patterns in Test Automation I](https://www.linkedin.com/pulse/design-patterns-test-automation-i-alex-ilyenko/)
   - [Design Patterns in Test Automation II](https://goo.gl/juYyTo)
   - [Design Patterns in Test Automation III](https://goo.gl/W5266e)
 
-# Mobile
+## Mobile
 
-  - [Appium](http://appium.io/)
+  - [Appium](http://appium.io/)<span style="color:blue">some *blue* text</span>.
+
     - [O que é](http://appium.io/docs/en/about-appium/getting-started/?lang=en)
     - [História](http://appium.io/history.html?lang=en)
     - [Basic](http://bitbar.com/the-basics-of-mobile-web-testing-using-appium-selenium/)
@@ -95,7 +39,7 @@
     - [Tutorial](http://www.vogella.com/tutorials/Robotium/article.html)
 
 
-# Web
+## Web
   - [Page Object](https://github.com/SeleniumHQ/selenium/wiki/PageObjects)
     - [Exemplo](http://www.seleniumeasy.com/selenium-tutorials/page-object-model-framework-introduction)
     - [By Guru99](http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
@@ -121,9 +65,12 @@
     - [Locators](https://github.com/angular/protractor/blob/master/lib/locators.ts)
     - [Livro](https://www.casadocodigo.com.br/products/livro-protractor)
 
-# API
+## API
   - Manualmente
     - [Postman](https://www.getpostman.com/)
+    - [Insomnia](https://insomnia.rest/)
+      - [Tutorial - Como usar o Insomnia para Testar APIs Rest](https://www.youtube.com/watch?v=2O8FHmHKMfM&list=PLdvDcOc8u5LrOoLj2OFMukP1WGj7rLnTR&index=24&ab_channel=JuliodeLima)
+      - [Why I use Insomnia instead of Postman](https://www.youtube.com/watch?v=VX8cK30ucOE&list=PLdvDcOc8u5LrOoLj2OFMukP1WGj7rLnTR&index=25&ab_channel=ZachGollwitzer)
     - [Fiddler](http://www.telerik.com/fiddler)
     - [Curl](https://curl.haxx.se/)
 
@@ -145,6 +92,9 @@
 
     - Python
       - [PyRestTest](https://github.com/svanoort/pyresttest)
+    - Multiple languages
+      - [Pact Flow](https://docs.pact.io/) - Contract Tests
+        - [Tutorial](https://youtube.com/playlist?list=PLdvDcOc8u5Lqd6kFSxTq6Gx3dcSZqlCxN&si=kgRCnfv_-fCUdVET)
   - Posts
     - [Testing Strategies in Microservices Architecture](https://www.xenonstack.com/blog/testing-strategies-in-microservices-architecture)
 
@@ -301,3 +251,6 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
 - [Cucumber Podcast](https://itunes.apple.com/gb/podcast/cucumber-podcast-rss/id1078896635)
 
 - [Testing Podcast](https://testingpodcast.com/)
+
+# Unit
+[Effective Unit Testing by Eliotte Rusty Harold](https://www.youtube.com/watch?v=fr1E9aVnBxw&list=PLdvDcOc8u5LrOoLj2OFMukP1WGj7rLnTR&index=26&ab_channel=Devoxx)
